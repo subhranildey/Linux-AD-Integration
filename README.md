@@ -11,4 +11,7 @@ $ cd
 
 $ git clone https://github.com/subhranildey/Linux-AD-Integration.git
 
-$ 
+$ cd Linux-AD-Integration
+$ chmod +x *.sh
+
+
