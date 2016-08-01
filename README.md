@@ -19,7 +19,7 @@ $ chmod +x *.sh
 
 $ ./AD-integration1.sh
 
-# Go to Windows
+### Go to Windows
 
 1. Create a new global security group called “LinuxAdmins” (without the quotes)
 
