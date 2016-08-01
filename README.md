@@ -4,6 +4,11 @@
 2. IP should set properly
 
 #Usage
+
 $ sudo -s
+
 $ cd
-$ git clone 
+
+$ git clone https://github.com/subhranildey/Linux-AD-Integration.git
+
+$ 
