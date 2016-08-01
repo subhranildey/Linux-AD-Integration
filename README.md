@@ -29,6 +29,10 @@ $ ./AD-integration1.sh
 
 ### Get back to linux system and execute 
 
+$ sudo -s
+
+$ cd Linux-AD-Integration
+
 $ ./AD-integration2.sh /etc/sudoers
 
 $ ./AD-integration3.sh
