@@ -9,6 +9,8 @@ $ sudo -s
 
 $ cd
 
+$ apt install git
+
 $ git clone https://github.com/subhranildey/Linux-AD-Integration.git
 
 $ cd Linux-AD-Integration
