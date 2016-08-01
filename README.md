@@ -3,7 +3,7 @@
 1. $ hostname -f should return fqdn
 2. IP should set properly
 
-#Usage
+## Usage
 
 $ sudo -s
 
