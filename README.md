@@ -15,4 +15,8 @@ $ cd Linux-AD-Integration
 
 $ chmod +x *.sh
 
+$ ./AD-integration1.sh
 
+$ ./AD-integration2.sh /etc/sudoers
+
+$ ./AD-integration3.sh
