@@ -17,6 +17,8 @@ $ cd Linux-AD-Integration
 
 $ chmod +x *.sh
 
+### Execute first script 
+
 $ ./AD-integration1.sh
 
 ### Go to Windows
@@ -24,6 +26,8 @@ $ ./AD-integration1.sh
 1. Create a new global security group called “LinuxAdmins” (without the quotes)
 
 2. Add the built-in “Domain Admins” group to the newly created “LinuxAdmins” group
+
+### Get back to linux system and execute 
 
 $ ./AD-integration2.sh /etc/sudoers
 
