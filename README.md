@@ -15,8 +15,6 @@ $ git clone https://github.com/subhranildey/Linux-AD-Integration.git
 
 $ cd Linux-AD-Integration
 
-$ chmod +x *.sh
-
 ### Execute first script 
 
 $ ./AD-integration1.sh
